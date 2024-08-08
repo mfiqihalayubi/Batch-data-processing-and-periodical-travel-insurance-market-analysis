@@ -31,6 +31,9 @@ Actually, i make batch processing schedule for every 1 day. Again, the objective
 ## **Flow Process**
 ![My Image](https://drive.google.com/uc?id=1wh5fKupu9S6gqMDifWp55SgdaqW6B0eU)
 
+## **Batch Processing**
+![My Image](https://drive.google.com/uc?id=1nSeZ0St4KQPYQkEJbLcowRjZ_w9dP9qc)
+
 ## **Conclusion**
 1. Most claims are caused by unexpected events or incidents that occur at airport and during the flight
 2. From the 55,284 trips, only 1.66% (921) of the trips were recorded as having a claim 

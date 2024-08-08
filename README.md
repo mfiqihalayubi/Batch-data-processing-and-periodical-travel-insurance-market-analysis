@@ -44,9 +44,3 @@ Actually, i make batch processing schedule for every 1 day. Again, the objective
 1. Company can offer airline insurance and travel insurance  product to differentiate between existing Travel Insurance Agency and to obtain maximum profits by attracting customers who subscribe to both types of products
 2. For the first year of business operations, the insurance product can be focused to cover trip that has destination to countries in the Southeast Asia region
 3. When it is first established, the company can focus promotions to potential customers who have travel duration between 0 -  30 days
-
-## **Model Improvement Recommendation**
-
-1. Improve the model’s precision by performing hyperparameter tuning with a broader range of hyperparameter values. Expanding the range of hyperparameters will increase the likelihood of finding a more optimal combination of hyperparameters
-2. Use the GridSearch method in the hyperparameter tuning process. Since the current modeling uses the RandomSearch method, there is a possibility that a more optimal combination of hyperparameters can be found through GridSearch
-

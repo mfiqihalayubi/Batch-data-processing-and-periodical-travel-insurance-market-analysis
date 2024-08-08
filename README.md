@@ -29,7 +29,7 @@ The background above is just a fictional story with the aim of imitating a real 
 Actually, i make batch processing schedule for every 1 day. Again, the objective above is a part of fictional story with the aim of imitating a real world case
 
 ## **Flow Process**
-![screenshot](https://drive.google.com/file/d/1wh5fKupu9S6gqMDifWp55SgdaqW6B0eU/view?usp=drive_link)
+https://drive.google.com/file/d/1wh5fKupu9S6gqMDifWp55SgdaqW6B0eU/view?usp=drive_link
 
 ## **Conclusion**
 1. Most claims are caused by unexpected events or incidents that occur at airport and during the flight

@@ -29,7 +29,7 @@ The background above is just a fictional story with the aim of imitating a real 
 Actually, i make batch processing schedule for every 1 day. Again, the objective above is a part of fictional story with the aim of imitating a real world case
 
 ## **Flow Process**
-![My Image](https://drive.google.com/file/d/1fk3GfOM05gAIBMjuHmo_L2kQI96S45mE/view?usp=sharing)
+![My Image](https://drive.google.com/uc?id=1fk3GfOM05gAIBMjuHmo_L2kQI96S45mE)
 
 ## **Batch Processing**
 ![My Image](https://drive.google.com/uc?id=1nSeZ0St4KQPYQkEJbLcowRjZ_w9dP9qc)
